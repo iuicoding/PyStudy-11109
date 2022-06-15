@@ -27,7 +27,7 @@ print(2*3)
 print(343-32)
 print(90/3)
 print("5%2=", 5%2)
-print("2**1")
+print(2**1)
 
 string = input("인사말을 입력하세요")
 print(string)
