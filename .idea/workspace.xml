@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c80a91a2-b0b6-4b5e-843e-6720836ae38b" name="변경" comment="1차시 수업_최종" />
+    <list default="true" id="c80a91a2-b0b6-4b5e-843e-6720836ae38b" name="변경" comment="2차시 수업">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pystudy_1/code_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/pystudy_1/code_study.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2ATuxTcALVul3R4sA2gZmdpJShf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +39,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.code_study_2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="iuiexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,6 +65,9 @@
     <configuration name="code_study" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\Admin\PycharmProjects\icodi\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_1" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -68,8 +84,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="code_study_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyStudy-11109" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\PycharmProjects\PyStudy-11109\pystudy_2\code_study_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code_study_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyStudy-11109" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pystudy_2/code_study_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code_study_2" />
+        <item itemvalue="Python.code_study_1" />
         <item itemvalue="Python.code_study" />
       </list>
     </recent_temporary>
@@ -85,6 +141,9 @@
       <workItem from="1655046145650" duration="1556000" />
       <workItem from="1655271338538" duration="3427000" />
       <workItem from="1655274806177" duration="826000" />
+      <workItem from="1655874172573" duration="183000" />
+      <workItem from="1655874363930" duration="3357000" />
+      <workItem from="1655877755980" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1655047665303</created>
@@ -142,7 +201,35 @@
       <option name="project" value="LOCAL" />
       <updated>1655275630297</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2차시 수업">
+      <created>1655877578229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655877578229</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2차시 수업">
+      <created>1655879272122</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655879272122</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2차시 수업">
+      <created>1655879910257</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655879910257</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2차시 수업">
+      <created>1655880261224</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655880261224</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +252,10 @@
     <MESSAGE value="1st hour class" />
     <MESSAGE value="1차시 수업" />
     <MESSAGE value="1차시 수업_최종" />
-    <option name="LAST_COMMIT_MESSAGE" value="1차시 수업_최종" />
+    <MESSAGE value="2차시 수업" />
+    <option name="LAST_COMMIT_MESSAGE" value="2차시 수업" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyStudy_11109$code_study_2.coverage" NAME="code_study_2 커버리지 결과" MODIFIED="1655874691526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pystudy_2" />
   </component>
 </project>
