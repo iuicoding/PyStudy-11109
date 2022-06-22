@@ -1,4 +1,4 @@
-list_a = ['인터넷', '익스플로러', '죽음']
+list_a = ["Internet", 'Explorer', 'Dies']
 print(list_a[0])
 
 list_b = ["파이참"]
@@ -25,3 +25,8 @@ else:
 str_list = ["W", "a", "!", "S", "a", "n", "s"]
 del str_list[2]
 print(str_list)
+
+list_i = []
+for list_i in range(1, 100, 2):
+    print(list_i)
+
