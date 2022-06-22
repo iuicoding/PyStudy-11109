@@ -25,3 +25,8 @@ else:
 str_list = ["W", "a", "!", "S", "a", "n", "s"]
 del str_list[2]
 print(str_list)
+
+list_CHJ = ["WACCA", "Will", "SubJong"]
+print(list_CHJ)
+for element in list_CHJ:
+    print(element)
