@@ -25,8 +25,3 @@ else:
 str_list = ["W", "a", "!", "S", "a", "n", "s"]
 del str_list[2]
 print(str_list)
-
-list_i = []
-for list_i in range(1, 100, 2):
-    print(list_i)
-
