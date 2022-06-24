@@ -1,4 +1,4 @@
-list_a = ["Internet", 'Explorer', 'Dies']
+list_a = ["Internet", 'Explorer', 'Died']
 print(list_a[0])
 
 list_b = ["파이참"]
