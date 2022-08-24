@@ -7,12 +7,13 @@ def print_3_times():
 print_3_times()
 
 
-def calc_add(a, b):
+def calcAdd(a, b):
     print(a + b)
     return
 
 
-calc_add(1, 3)
+calcAdd(1, 3)
+calcAdd(3, 4)
 
 
 def rev(lst):
@@ -28,3 +29,12 @@ list1 = [1, 2, 3, 4, 5, 6]
 list2 = rev(list1)
 
 print(list2)
+
+
+def calcMulti(c, d):
+    print(c * d)
+    return
+
+
+calcMulti(4, 5)
+calcMulti(6, 7)
