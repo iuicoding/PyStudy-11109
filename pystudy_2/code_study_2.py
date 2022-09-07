@@ -13,7 +13,7 @@ list_2.extend([5, 6, 7, 8])
 list_2.remove(8)
 list_2.pop(3)
 
-list_3 = ["W", "a", "!", "S", "a", "n", "s"]
+list_3 = ["W", "exception", "!", "S", "exception", "n", "s"]
 for element in list_3:
     print(element)
 
@@ -22,7 +22,7 @@ if 9 in list_2:
 else:
     print("값이 존재하지 않습니다.")
 
-str_list = ["W", "a", "!", "S", "a", "n", "s"]
+str_list = ["W", "exception", "!", "S", "exception", "n", "s"]
 del str_list[2]
 print(str_list)
 
